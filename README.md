@@ -2,7 +2,7 @@
 
 This tool is designed to help penetration testers to access a large number of anchor paths in the JS and other files of a website in bulk, and to take screenshots of all anchor pages, and finally output reports through html files.
 
-
+[中文版本(Chinese version)](README.zh-cn.md)
 
 ## Installation
 
